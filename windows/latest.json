@@ -1,11 +1,11 @@
 {
- "version": "1.0.11",
- "notes": "",
- "pub_date": "2026-10-24T08:03:25Z",
+ "version": "1.1.0",
+ "notes": "One version for phone, tablet and PC: 1.1.0\n\n- Version comes from package.json for both builds (Android versionCode is\n  derived from it), replacing the separate per-platform build numbers\n- Each version is one release vX.Y.Z holding both the APK and the Windows\n  installer, in the private repo and in fieldbook-releases\n- Clear warning when RELEASES_TOKEN is missing\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01WqQfwPLUCWpQn3jrT8ASoK",
+ "pub_date": "2026-10-24T08:18:25Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1ZVNFF2QzN6UUcva01XVVdwbUdxd1BCV0pObVVtclZVMkJwT2JEdGZvYTVGTlhlU29IYVZEcUtOcDFsT1ZSSnFJVVhLUU10SVR6Sjg4ZVVURnNQSGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODI4OTg5CWZpbGU6RmllbGRib29rXzEuMC4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjExCkt1cHhrVnpkMHNLZUM1QmxyOFh5OCtyMFZVWU4yVTRBZG5zUXp0VzROM1cxSHpiK1FacTREYmJnWGY0Vmt0T0xrU3dublRrRGtJcVNuL25tYTVKdENBPT0K",
-   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/windows-v1.0.11/Fieldbook-Setup-1.0.11.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR2RZYkt5bVczUjRBM205djNrOGpqdE1EUDhKQk1CeHA5ZVlEZWhTMnNvd3I2alBNR2tFbHBYNUNOTWxXRGNTamhnWG5LeXE0dkhHZTd6Um9lcEpYYVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODI5ODg0CWZpbGU6RmllbGRib29rXzEuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMApsN3RIY2xEK0cvNkVmU3c3cnc4Vjljdkd3NkRxT28yK0ZQcW03RFlYVnlKMkpsaHcrNndnMWo5WkVPdUV1VUpUVUFhakRndlRKM1ExdThWVlZQRzlEdz09Cg==",
+   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.0/Fieldbook-Setup-1.1.0.exe"
   }
  }
 }
