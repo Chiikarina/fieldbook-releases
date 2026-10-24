@@ -1,6 +1,6 @@
 {
- "version": "1.1.0",
- "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.0/Fieldbook-1.1.0.apk",
- "notes": "One version for phone, tablet and PC: 1.1.0\n\n- Version comes from package.json for both builds (Android versionCode is\n  derived from it), replacing the separate per-platform build numbers\n- Each version is one release vX.Y.Z holding both the APK and the Windows\n  installer, in the private repo and in fieldbook-releases\n- Clear warning when RELEASES_TOKEN is missing\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01WqQfwPLUCWpQn3jrT8ASoK",
- "pub_date": "2026-10-24T08:16:00Z"
+ "version": "1.1.1",
+ "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.1/Fieldbook-1.1.1.apk",
+ "notes": "1.1.1: find new versions immediately after release\n\n- Android update check reads the feed through GitHub's API (no ~5 minute\n  cache delay), falling back to the raw file address\n- Release notes in the feed leave out commit attribution lines",
+ "pub_date": "2026-10-24T08:22:57Z"
 }
