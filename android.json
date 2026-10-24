@@ -1,6 +1,6 @@
 {
- "version": "1.1.4",
- "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.4/Fieldbook-1.1.4.apk",
- "notes": "1.1.4: master plan Excel export/import in Settings and More, PC export saves to Downloads, clearer tick buttons\n\n- Windows app: exports (backup and Excel plan) are written to the Downloads folder by the app, with a Show in folder button\n- Settings: new 'Master plan (Gantt) in Excel' section; More menu: export/import master plan\n- Tick buttons: thicker outline, done ticks filled in the Clean look, routine ticks in Week/Month coloured and visible\n- Today: 'Your plan is empty' only shows when there are no tasks, routines or plan",
- "pub_date": "2026-10-24T08:43:58Z"
+ "version": "1.1.5",
+ "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.5/Fieldbook-1.1.5.apk",
+ "notes": "1.1.5: clicking a milestone or bar in the master plan no longer moves it\n\n- Clicking without dragging restored an empty position, so the bar or diamond jumped to the left edge\n- Milestones stay diamonds while being dragged",
+ "pub_date": "2026-10-24T08:51:37Z"
 }
