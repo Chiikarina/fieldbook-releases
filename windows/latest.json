@@ -1,0 +1,11 @@
+{
+ "version": "1.0.11",
+ "notes": "",
+ "pub_date": "2026-10-24T08:03:25Z",
+ "platforms": {
+  "windows-x86_64": {
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1ZVNFF2QzN6UUcva01XVVdwbUdxd1BCV0pObVVtclZVMkJwT2JEdGZvYTVGTlhlU29IYVZEcUtOcDFsT1ZSSnFJVVhLUU10SVR6Sjg4ZVVURnNQSGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODI4OTg5CWZpbGU6RmllbGRib29rXzEuMC4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjExCkt1cHhrVnpkMHNLZUM1QmxyOFh5OCtyMFZVWU4yVTRBZG5zUXp0VzROM1cxSHpiK1FacTREYmJnWGY0Vmt0T0xrU3dublRrRGtJcVNuL25tYTVKdENBPT0K",
+   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/windows-v1.0.11/Fieldbook-Setup-1.0.11.exe"
+  }
+ }
+}
