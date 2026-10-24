@@ -1,6 +1,6 @@
 {
- "version": "1.1.1",
- "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.1/Fieldbook-1.1.1.apk",
- "notes": "1.1.1: find new versions immediately after release\n\n- Android update check reads the feed through GitHub's API (no ~5 minute\n  cache delay), falling back to the raw file address\n- Release notes in the feed leave out commit attribution lines",
- "pub_date": "2026-10-24T08:22:57Z"
+ "version": "1.1.2",
+ "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.2/Fieldbook-1.1.2.apk",
+ "notes": "1.1.2: update popup and in-place Settings check\n\n- When a new version is found (on start, on resume, or from Check for\n  updates) a popup shows the version, what's new and Update now / Later;\n  Windows shows Restart to update once the download is ready\n- Check for updates refreshes the Updates section in place instead of\n  reopening Settings at the top, and says when you're already up to date",
+ "pub_date": "2026-10-24T08:26:11Z"
 }
