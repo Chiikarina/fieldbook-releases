@@ -1,6 +1,6 @@
 {
- "version": "1.3.1",
- "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.3.1/Fieldbook-1.3.1.apk",
- "notes": "1.3.1: clean day-per-page reports, Baselines window with multi-delete\n\n- Word and PDF reports: cover page (title, period, name, big totals, light monthly table), then\n  each day on its own page (busy days can run to a second page; empty days skipped). Clean\n  layout: weekday label, large date, one accent rule, small coloured section labels, items\n  with faint separators; labels never left alone at the bottom of a page. Option to turn off\n  'each day on a new page'.\n- Baselines window: save (with name), show/hide, rename, tick several and delete (with Undo);\n  a bin next to the Baseline menu in the Plan view deletes the selected one.",
- "pub_date": "2026-10-25T08:09:25Z"
+ "version": "1.3.2",
+ "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.3.2/Fieldbook-1.3.2.apk",
+ "notes": "1.3.2: fixed editor header/footer, lab check hidden until ticked, panels scroll inside\n\n- Task, work-package and note editors: the title stays at the top, Files & outputs and\n  Save / Delete / Cancel stay at the bottom; only the fields scroll\n- Task editor: lab condition fields are hidden until 'Use a lab condition check' is ticked;\n  notes moved above it\n- PC and tablet: the window no longer scrolls as a whole. The header stays put and each panel\n  scrolls on its own (Today's two columns, Week grid and side panel, master plan, timeline,\n  board columns); other views scroll under the fixed header. Scroll positions are kept when\n  the screen refreshes. Phones keep normal scrolling.",
+ "pub_date": "2026-10-25T08:28:26Z"
 }
