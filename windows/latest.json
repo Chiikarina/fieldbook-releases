@@ -1,11 +1,11 @@
 {
- "version": "1.2.6",
- "notes": "1.2.6: reminders at the start time for tasks and routines\n\n- Timed tasks now remind at their start time as well as the early reminder; a task added\n  less than the early-reminder time ahead used to get no reminder at all\n- Timed routines remind 10 min before, or at the start if that is already closer\n- Early reminder can be set to None (start time only)\n- Settings > Notifications lists the next reminders; schedule also refreshes after the\n  8-second load fallback",
- "pub_date": "2026-10-25T07:31:09Z",
+ "version": "1.3.0",
+ "notes": "1.3.0: notes, diary/annual report export, dated baselines, tab order\n\n- Notes: dated diary entries (title, text, time, area, tags, link to a task or work package,\n  files); shown under each day in Today and Month, a Notes view with search (More), and\n  'note: ...' in the add bar. Synced and included in backups.\n- Export diary or report (More, Notes view, Settings > Backup & export): any period (presets),\n  completed tasks, routines done, notes and/or the master plan, area filter, baseline choice;\n  day by day grouped by month, empty days skipped. Word (docx 9.7.1), PDF (pdfmake 0.3.11,\n  loaded only when exporting) or Excel (Diary + Summary + plan sheets).\n- Baselines: save many dated, named baselines (30 kept); pick one in the Plan view to compare;\n  used by the Excel plan export and the report. The old single baseline is kept.\n- History for reports: routines keep ~3 years of done days; repeating tasks log each completion.\n- Tabs: Today, Week, Month, Plan.",
+ "pub_date": "2026-10-25T07:49:15Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR2ZHbUtBTzRIQXhkOUxNSkZXZkVsL2ZyejdmMkpRY1M1eEw0MzRSNHRDbU1xZG9WK1pwb0NIWUdkdVRHS0VzWWk5bjZuSjNjY2F4dXBsaEhLWnN0RFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTEzNDU3CWZpbGU6RmllbGRib29rXzEuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNgpyQnVjeDVhNHY2VE04TVlJWG1laHJWK1FEZ04yQ1ExaGhVdVI0ZC9CVDVJWVFtOUtiYzJyUGNXSVc4U2ZYNENYNEVBbkNxekJkeVg0K2pBb2l6U2JBQT09Cg==",
-   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.6/Fieldbook-Setup-1.2.6.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1Jia3JTVk1WUEZlZ29zTkQ1V2hBUWFma0xnNzV5aHc4TUtsY2RCUFUxTXl6MU1wKzVkd3ZjN05TWUhSdlhteEI4YzE5VjZXWXo1UXN2ZmZPVnNtZVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTE0NTQwCWZpbGU6RmllbGRib29rXzEuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuMAplRGsxdHZ1ZFhJV2pJYW1BSkk4cUxPSkdXUDJ1UzZwT2xQbTVmanF0SnBnTzNFM3BIeWtNaDh1a2JXMkJpK3pINkgwbnVQL0lWUU1wK0hVaEQwSW9Edz09Cg==",
+   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.3.0/Fieldbook-Setup-1.3.0.exe"
   }
  }
 }
