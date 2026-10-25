@@ -1,11 +1,11 @@
 {
- "version": "1.2.4",
- "notes": "1.2.4: turn on Google Drive uploads\n\n- Google OAuth client (TVs and Limited Input devices) added to firebase-config.js, so\n  Settings > Google Drive > Connect works and Attach file uploads to My Drive > Fieldbook",
- "pub_date": "2026-10-25T07:05:00Z",
+ "version": "1.2.5",
+ "notes": "1.2.5: clear message when Google Drive access was not ticked\n\n- After sign-in, check that Google actually granted drive.file; if the Drive box was left\n  unticked, revoke and explain how to connect again\n- A 'insufficient authentication scopes' upload error now disconnects and shows the same advice\n- Connect screen tells you to tick the Google Drive box",
+ "pub_date": "2026-10-25T07:17:15Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1FVaHBFTENyOXdjNjhSVllJTmVHUXBlcDl6Q1lvZGdRV1dPLy9pYUNEdkFSNS9QcFRkQzR6WTFFT055emh2Qnd1c1V3TzIwdkVzWWlUaEdHcVJoclFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTExODg3CWZpbGU6RmllbGRib29rXzEuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNAovbzB3UjlRZkVFNXlUdjdzeWZPd09RS3pYRzdla3h0N0I4OFFPZmJaQldHK3U2d3dudjJtdElRcUFoNkQwcTBqbmN4VDJtbEc5SjJ2eFNvU0k2VUxEZz09Cg==",
-   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.4/Fieldbook-Setup-1.2.4.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR2EydW5EZVBtUG1UU09sN0tNL0JleG9jKyszdVR1eTNKK2JET3VLWXZkODh4WWtMc05iZFpkT2phUnUzVW9WMERYT3h6QzhLeGoweWlxZURjNmtsSEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTEyNjIxCWZpbGU6RmllbGRib29rXzEuMi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNQpDNElqNGpnSUQ5eENqUHdnK2dZZ2w4RjRza1dCSlVoL3lGdEtjQkN2dDM2aFprdEx2emQ5NkRRRkNObXVGQUtBVmhKTDhOY3ROdWRsM2p5L1huSkdCQT09Cg==",
+   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.5/Fieldbook-Setup-1.2.5.exe"
   }
  }
 }
