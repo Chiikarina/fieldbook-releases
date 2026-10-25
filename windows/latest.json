@@ -1,11 +1,11 @@
 {
- "version": "1.2.1",
- "notes": "1.2.1: one pencil per group instead of on every row\n\n- The select pencil now sits once in each group header (Today, Overdue, Lab checks, Done today,\n  Next 7 days, Unscheduled, Routines, the selected day in Month, the Month, Week and Timeline\n  headers, Week side lists and each Board column); rows no longer have their own pencil\n- Clean look: board cards show their area colour on the left edge again",
- "pub_date": "2026-10-25T06:17:14Z",
+ "version": "1.2.2",
+ "notes": "1.2.2: task details in Month view, quick-add help, Settings only at the top\n\n- Month view: clicking a task opens its details first (when, estimate, project, work package,\n  repeat, lab check, tags, files, notes) with Edit, Mark done, +1 day and Close\n- Add-a-task bar: (i) button explains everything the bar understands, with examples to try\n- Settings removed from More (the gear at the top right opens it)",
+ "pub_date": "2026-10-25T06:51:53Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1dhYzhaOHB2cGhRODFteUNUZHhTcisyYWlXTCtDbGlDWDVYRHNjUk13b1YvcUgyWUxXUHdxcXgybEN0djF5U1RCV1VsNzVHV0t3MXBjK2N5ekhhY1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA5MDE3CWZpbGU6RmllbGRib29rXzEuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMQpqLzNuQTh1OHVKV3pacWpOSThUTmorTFNYVFJ5Z1l5VmxBVkJZYktRaGNVUjlaQ1BndE1pZVdWTW5zMVY2MFdUYnNEYmZpVXAyR0FBd0ZuOUxhYW9CZz09Cg==",
-   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.1/Fieldbook-Setup-1.2.1.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1V5eTlYMmxDZ2JraTFLQ0gyelIzckdCaXRJWFZKWHc0Qlk5VXFmaGRVdmdsT0NUZUZaSVczaTBVRUx0NTIwaXgvYjUxdHlTbjhKSFZXMmhKcHR5VFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTExMTAxCWZpbGU6RmllbGRib29rXzEuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMgp0VEw0ajNkQUJLY1ZoZ2xtSDRtY05Rb0gyWkZjT3NwRnk3dUo0dEdzSXNnWDNHNmFlZ1Y3L3BKbC9SbGZxcFlETnFSTmVyeXJrMVRtaG1HK3ROZG1CUT09Cg==",
+   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.2/Fieldbook-Setup-1.2.2.exe"
   }
  }
 }
