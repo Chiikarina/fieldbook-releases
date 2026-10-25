@@ -1,6 +1,6 @@
 {
- "version": "1.1.6",
- "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.6/Fieldbook-1.1.6.apk",
- "notes": "1.1.6: master plan output/resources columns, clearer progress, progress from sub-activities, details before editing\n\n- Plan view: Deliverable output and Required resources columns pinned on the right (toggle: Output & resources; off by default on phones)\n- Progress: coloured % badges (grey not started, amber in progress, green complete), % label after each bar, darker done-fill\n- Progress source per work package: sub-activities (duration-weighted, default when it has sub-activities), linked tasks, or by hand; exported to Excel as 'Progress from'\n- Clicking a bar, diamond, name or column cell opens a read-only details sheet with Edit / + Task / Close",
- "pub_date": "2026-10-24T10:01:09Z"
+ "version": "1.1.7",
+ "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.7/Fieldbook-1.1.7.apk",
+ "notes": "1.1.7: switch between light and dark mode\n\n- Sun/moon button in the header flips light/dark\n- Settings > Light or dark: Match device, Light, Dark (saved per device)",
+ "pub_date": "2026-10-25T05:06:05Z"
 }
