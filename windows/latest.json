@@ -1,11 +1,11 @@
 {
- "version": "1.1.6",
- "notes": "1.1.6: master plan output/resources columns, clearer progress, progress from sub-activities, details before editing\n\n- Plan view: Deliverable output and Required resources columns pinned on the right (toggle: Output & resources; off by default on phones)\n- Progress: coloured % badges (grey not started, amber in progress, green complete), % label after each bar, darker done-fill\n- Progress source per work package: sub-activities (duration-weighted, default when it has sub-activities), linked tasks, or by hand; exported to Excel as 'Progress from'\n- Clicking a bar, diamond, name or column cell opens a read-only details sheet with Edit / + Task / Close",
- "pub_date": "2026-10-24T10:03:15Z",
+ "version": "1.1.7",
+ "notes": "1.1.7: switch between light and dark mode\n\n- Sun/moon button in the header flips light/dark\n- Settings > Light or dark: Match device, Light, Dark (saved per device)",
+ "pub_date": "2026-10-25T05:07:34Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR2JkL3hzbU5Pc0I4WDRBZlpIT2lLb3RiTElyTVdZcnNhNUtDNzRtMGgzK3gvTVJrblNTeE5IN1RpRUJ0dGNySFhrQ1p4YnBEUTExcERNTmVHNHpwUkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODM2MTgyCWZpbGU6RmllbGRib29rXzEuMS42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuNgplOE5vRkxjeWp1aUs3aWNoZHBTQTV5cWFIa1REMWNsamN2dTdKREVQMmRqT1lON1hMU0FWYjRIVmlTRjYwVkE4ZlN1R1Mrdm41TC80WEEwZjl5OGVCdz09Cg==",
-   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.6/Fieldbook-Setup-1.1.6.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1IxZ3h4eVdvWFppL3FETXpZeExOUVNqOXpVM1RWRExueVJqWkgrZWVPNUUxUEh6emN3OGxpbnV6OXUrdjJaa3FmUmlISU1VbXBoYldqd2NTWURCa2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA0ODQxCWZpbGU6RmllbGRib29rXzEuMS43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuNwpFbisrMjAzL1MzV0tuOXp4eVdrWTMxUjJ5MHEwa3VGZ0xMZUhIRisrMndWaElzK2hRSmdTR1QxZnJpakhSSmY3UXl2UnhTV0k0R25rd1pqdTIvVGlCUT09Cg==",
+   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.7/Fieldbook-Setup-1.1.7.exe"
   }
  }
 }
