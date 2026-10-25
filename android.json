@@ -1,6 +1,6 @@
 {
- "version": "1.2.6",
- "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.6/Fieldbook-1.2.6.apk",
- "notes": "1.2.6: reminders at the start time for tasks and routines\n\n- Timed tasks now remind at their start time as well as the early reminder; a task added\n  less than the early-reminder time ahead used to get no reminder at all\n- Timed routines remind 10 min before, or at the start if that is already closer\n- Early reminder can be set to None (start time only)\n- Settings > Notifications lists the next reminders; schedule also refreshes after the\n  8-second load fallback",
- "pub_date": "2026-10-25T07:28:58Z"
+ "version": "1.3.0",
+ "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.3.0/Fieldbook-1.3.0.apk",
+ "notes": "1.3.0: notes, diary/annual report export, dated baselines, tab order\n\n- Notes: dated diary entries (title, text, time, area, tags, link to a task or work package,\n  files); shown under each day in Today and Month, a Notes view with search (More), and\n  'note: ...' in the add bar. Synced and included in backups.\n- Export diary or report (More, Notes view, Settings > Backup & export): any period (presets),\n  completed tasks, routines done, notes and/or the master plan, area filter, baseline choice;\n  day by day grouped by month, empty days skipped. Word (docx 9.7.1), PDF (pdfmake 0.3.11,\n  loaded only when exporting) or Excel (Diary + Summary + plan sheets).\n- Baselines: save many dated, named baselines (30 kept); pick one in the Plan view to compare;\n  used by the Excel plan export and the report. The old single baseline is kept.\n- History for reports: routines keep ~3 years of done days; repeating tasks log each completion.\n- Tabs: Today, Week, Month, Plan.",
+ "pub_date": "2026-10-25T07:47:58Z"
 }
