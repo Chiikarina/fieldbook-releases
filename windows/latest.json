@@ -1,11 +1,11 @@
 {
- "version": "1.1.7",
- "notes": "1.1.7: switch between light and dark mode\n\n- Sun/moon button in the header flips light/dark\n- Settings > Light or dark: Match device, Light, Dark (saved per device)",
- "pub_date": "2026-10-25T05:07:34Z",
+ "version": "1.1.8",
+ "notes": "1.1.8: files & outputs on tasks and the master plan, saved in Google Drive\n\n- Files & outputs section on tasks, work packages and milestones: attach files (uploaded to\n  My Drive > Fieldbook > one folder per top-level work package) or add links\n- Google sign-in via the device-code flow (works on Huawei tablets and in app windows);\n  drive.file permission only; connection synced to all devices; never written to backups\n- Windows: native form POST for Google's OAuth endpoints (reqwest/rustls, already in the build)\n- Android: CapacitorHttp exposed for the same calls\n- Master plan details list files with an Open folder link; task rows show a paperclip count\n- Excel export: Outputs (files) column with links, plus an Outputs (files) sheet\n- SETUP.md: Google Cloud steps; GOOGLE_DRIVE config placeholder (off until the client is added)",
+ "pub_date": "2026-10-25T05:23:39Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1IxZ3h4eVdvWFppL3FETXpZeExOUVNqOXpVM1RWRExueVJqWkgrZWVPNUUxUEh6emN3OGxpbnV6OXUrdjJaa3FmUmlISU1VbXBoYldqd2NTWURCa2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA0ODQxCWZpbGU6RmllbGRib29rXzEuMS43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuNwpFbisrMjAzL1MzV0tuOXp4eVdrWTMxUjJ5MHEwa3VGZ0xMZUhIRisrMndWaElzK2hRSmdTR1QxZnJpakhSSmY3UXl2UnhTV0k0R25rd1pqdTIvVGlCUT09Cg==",
-   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.7/Fieldbook-Setup-1.1.7.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1RkUTVhVS90aERnRmcyTDExZUtTV0p4NlVpMHk3RlVjSSs5MEJNSzRscTcrSW9nc2N3aDNDM3FOMVRucitlQW5vYUY1WmFJUEtlSnFkL3lIeTFZa1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA1ODA2CWZpbGU6RmllbGRib29rXzEuMS44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuOApRZjNTTGZ5R0hVNFJsUXcveXFreGpEdjlQQUJNVjdlY3RZMTJTd3kzNmZvb3BYdlpMRzhCN2k0QnRUaXhIUGdubEVudi9VUi90N2dqTERLTll3VnlBQT09Cg==",
+   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.8/Fieldbook-Setup-1.1.8.exe"
   }
  }
 }
