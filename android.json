@@ -1,6 +1,6 @@
 {
- "version": "1.2.0",
- "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.0/Fieldbook-1.2.0.apk",
- "notes": "1.2.0: new Settings layout, Settings at the top right, long-press and pencil to select\n\n- Settings button sits at the top right next to the light/dark switch (phone, tablet and PC)\n- Settings redesigned: left list of sections with the chosen one on the right on PC and tablets;\n  on phones a list of sections (with a short summary each) that opens one page at a time, with Back\n- Phone/tablet: long-press a task or routine to start selecting (then tap more, Mark done or Delete)\n- PC: a small pencil next to each task and routine starts selecting with that item\n- 'Select tasks & routines' removed from More\n- Phone header tightened so All, PhD and Personal fit beside the two buttons",
- "pub_date": "2026-10-25T06:09:04Z"
+ "version": "1.2.1",
+ "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.1/Fieldbook-1.2.1.apk",
+ "notes": "1.2.1: one pencil per group instead of on every row\n\n- The select pencil now sits once in each group header (Today, Overdue, Lab checks, Done today,\n  Next 7 days, Unscheduled, Routines, the selected day in Month, the Month, Week and Timeline\n  headers, Week side lists and each Board column); rows no longer have their own pencil\n- Clean look: board cards show their area colour on the left edge again",
+ "pub_date": "2026-10-25T06:14:27Z"
 }
