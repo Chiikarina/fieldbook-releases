@@ -1,6 +1,6 @@
 {
- "version": "1.2.2",
- "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.2/Fieldbook-1.2.2.apk",
- "notes": "1.2.2: task details in Month view, quick-add help, Settings only at the top\n\n- Month view: clicking a task opens its details first (when, estimate, project, work package,\n  repeat, lab check, tags, files, notes) with Edit, Mark done, +1 day and Close\n- Add-a-task bar: (i) button explains everything the bar understands, with examples to try\n- Settings removed from More (the gear at the top right opens it)",
- "pub_date": "2026-10-25T06:50:14Z"
+ "version": "1.2.3",
+ "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.3/Fieldbook-1.2.3.apk",
+ "notes": "1.2.3: edit areas right inside Settings > Areas\n\n- Inline editor replaces the Edit areas popup: colour dot opens a swatch picker, name field,\n  up/down and delete icons, Quick add suggestions, Save changes / Undo changes\n- Removing an area asks where its tasks and routines go, with Keep to undo",
+ "pub_date": "2026-10-25T06:58:26Z"
 }
