@@ -1,6 +1,6 @@
 {
- "version": "1.2.5",
- "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.5/Fieldbook-1.2.5.apk",
- "notes": "1.2.5: clear message when Google Drive access was not ticked\n\n- After sign-in, check that Google actually granted drive.file; if the Drive box was left\n  unticked, revoke and explain how to connect again\n- A 'insufficient authentication scopes' upload error now disconnects and shows the same advice\n- Connect screen tells you to tick the Google Drive box",
- "pub_date": "2026-10-25T07:15:25Z"
+ "version": "1.2.6",
+ "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.6/Fieldbook-1.2.6.apk",
+ "notes": "1.2.6: reminders at the start time for tasks and routines\n\n- Timed tasks now remind at their start time as well as the early reminder; a task added\n  less than the early-reminder time ahead used to get no reminder at all\n- Timed routines remind 10 min before, or at the start if that is already closer\n- Early reminder can be set to None (start time only)\n- Settings > Notifications lists the next reminders; schedule also refreshes after the\n  8-second load fallback",
+ "pub_date": "2026-10-25T07:28:58Z"
 }
