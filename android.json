@@ -1,6 +1,6 @@
 {
- "version": "1.2.3",
- "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.3/Fieldbook-1.2.3.apk",
- "notes": "1.2.3: edit areas right inside Settings > Areas\n\n- Inline editor replaces the Edit areas popup: colour dot opens a swatch picker, name field,\n  up/down and delete icons, Quick add suggestions, Save changes / Undo changes\n- Removing an area asks where its tasks and routines go, with Keep to undo",
- "pub_date": "2026-10-25T06:58:26Z"
+ "version": "1.2.4",
+ "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.4/Fieldbook-1.2.4.apk",
+ "notes": "1.2.4: turn on Google Drive uploads\n\n- Google OAuth client (TVs and Limited Input devices) added to firebase-config.js, so\n  Settings > Google Drive > Connect works and Attach file uploads to My Drive > Fieldbook",
+ "pub_date": "2026-10-25T07:03:44Z"
 }
