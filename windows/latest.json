@@ -1,11 +1,11 @@
 {
- "version": "1.3.2",
- "notes": "1.3.2: fixed editor header/footer, lab check hidden until ticked, panels scroll inside\n\n- Task, work-package and note editors: the title stays at the top, Files & outputs and\n  Save / Delete / Cancel stay at the bottom; only the fields scroll\n- Task editor: lab condition fields are hidden until 'Use a lab condition check' is ticked;\n  notes moved above it\n- PC and tablet: the window no longer scrolls as a whole. The header stays put and each panel\n  scrolls on its own (Today's two columns, Week grid and side panel, master plan, timeline,\n  board columns); other views scroll under the fixed header. Scroll positions are kept when\n  the screen refreshes. Phones keep normal scrolling.",
- "pub_date": "2026-10-25T08:30:01Z",
+ "version": "1.4.0",
+ "notes": "Fieldbook 1.4.0: plan and notes multi-select, resizable Gantt columns, own time picker, month side panel, multi-area filter, custom area colours\n\n- Master plan: group pencil selects work packages, sub-activities and milestones;\n  move dates by days/weeks/months (linked tasks follow), bulk edit start/end,\n  parent, progress source/value, deliverable and resources; delete with Undo\n- Notes: group pencil in Today, Month and Notes; move date, area, tags, delete\n- Gantt: drag the Work package, Deliverable and Resources column edges; widths\n  saved per device, double-click resets\n- Phone/tablet: Fieldbook time picker replaces the system clock dialog\n- Month view: day tasks, routines and notes in a right-hand panel on PC/tablet\n- Areas: show several areas together (More/\u22ef picker, Ctrl-click); any colour",
+ "pub_date": "2026-10-25T11:18:41Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR2NQUXRlRGRMWk9sMkVtR2NSUzg1bWlZMEt0WEo4QVhDcTBCTi94MUFFOFB3a0ROK3NGVGFSdzdZRjR6d2NQaHJ2NW1Tb01KaXhKK0w0eG1YUHp4bVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTE2OTg5CWZpbGU6RmllbGRib29rXzEuMy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuMgpZc0FXZ2JDbGNkQWgvRmtYb3hMRVhuQVdLZkQvSVd0L2VKQXFMK1NhcCtZV0RtYVE0RnBmalhNYm9NMDRyZWd1SG4wZ2NRNk1EMnBFLzZUdXJUbkFBZz09Cg==",
-   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.3.2/Fieldbook-Setup-1.3.2.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR2QvL2NtenJZUnZOcVdKUTFLOVE3YTJ1NURHT0ZRZzhwaUIyZG53Rkswb1lGZFVnOStzM0pGMy9nempuN0oxaGE4dlNXOE5PL3M3c1lSQVlaQVpQeUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTI3MTA4CWZpbGU6RmllbGRib29rXzEuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMApwOUVOWE4ybVlSSm9SVjFtZGE0QkJuV00xb2tUN0Vhdzd0dUtJSTA0YUJ2S05GazA5LzRNNGFWWTl1WEYvVUhaeE55dmpCVGo1d1gya2Q5OXpnWGdEdz09Cg==",
+   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.4.0/Fieldbook-Setup-1.4.0.exe"
   }
  }
 }
