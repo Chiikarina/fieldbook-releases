@@ -1,11 +1,11 @@
 {
- "version": "1.1.9",
- "notes": "1.1.9: your own areas, and a Settings tab\n\n- Settings > Areas > Edit areas: rename, recolour (9 colours), reorder, add (suggestions like\n  Master's thesis, Bachelor's thesis, Coursework) and remove areas; removing an area moves its\n  tasks and routines to another one. Synced to all devices.\n- Top bar shows All plus the areas that fit (at most 3); the rest open from More (+N)\n- Hours, week summary, Load view and legends split by every area\n- Quick add: @areaname (e.g. @master) picks the area\n- Settings has its own tab (bottom bar on phone/tablet, side rail on PC)\n- PhD and Personal keep their ids, so existing tasks are unchanged",
- "pub_date": "2026-10-25T05:46:19Z",
+ "version": "1.2.0",
+ "notes": "1.2.0: new Settings layout, Settings at the top right, long-press and pencil to select\n\n- Settings button sits at the top right next to the light/dark switch (phone, tablet and PC)\n- Settings redesigned: left list of sections with the chosen one on the right on PC and tablets;\n  on phones a list of sections (with a short summary each) that opens one page at a time, with Back\n- Phone/tablet: long-press a task or routine to start selecting (then tap more, Mark done or Delete)\n- PC: a small pencil next to each task and routine starts selecting with that item\n- 'Select tasks & routines' removed from More\n- Phone header tightened so All, PhD and Personal fit beside the two buttons",
+ "pub_date": "2026-10-25T06:10:32Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1lQUVlnWUY2V29ITFRuMjIrZGdUaHdSYU5pS3ZlWno2OFhzWmdEZGJWZ2k4VkRCVzBRYnVKbnFGVit6aW83blBYTTNYY2ZIelJKN3Nleks0OWI2RUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA3MTY4CWZpbGU6RmllbGRib29rXzEuMS45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuOQpFZHRuUXEvek1wOS9Ycyt2SnB0c0gvZUhFRFdrZlVReWtheTZxSTVrRytiK2xaYXRlLzZCVWlsc2ZKR0tFZnhibnZ6dE5wbXRHdlk1NUFxR0g5YU5BUT09Cg==",
-   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.1.9/Fieldbook-Setup-1.1.9.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1REUVBDUlpadllZbEV6UUZ2QVFhVUhDQ3Awc2R5OWM4a2g5cEx4MGkvUldJWVIyQnJhQXVYTE0vWms1RXcwLzhndmZ0RndGdE9IQzRQa2czaHN6bVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA4NjIxCWZpbGU6RmllbGRib29rXzEuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMApVSytKcWQvZnBVSmdHNVo0QkJtN0tIdDFONG1SamsyTXhsQVpUcG9tcVFvR0VhZ0h2SE5Bb1hocWV3NkdpNHhQUkUvWWpsZ3dzaVJVc1pvcWFybmxBUT09Cg==",
+   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.2.0/Fieldbook-Setup-1.2.0.exe"
   }
  }
 }
