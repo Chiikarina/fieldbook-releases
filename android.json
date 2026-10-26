@@ -1,6 +1,6 @@
 {
- "version": "1.4.5",
- "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.4.5/Fieldbook-1.4.5.apk",
- "notes": "Fieldbook 1.4.5: MS Project-style work package information\n\n- The work package editor is now a large page with tabs: General,\n  Predecessors, Resources & outputs, Advanced, Notes, Linked tasks\n- General: code (WBS), name, part of, milestone switch, start, finish,\n  duration and working days kept in step, % complete\n- Predecessors: several links per item, each Finish-Start, Start-Start,\n  Finish-Finish or Start-Finish with a lag (minus = overlap); successors list\n- Advanced: constraints (start/finish no earlier/later than, must start/finish\n  on), deadline with a marker on the bar, warnings for broken links and dates\n- Scheduling pushes linked items for every link type and respects constraints;\n  arrows are drawn for each link type\n- Info sheet shows predecessors, successors, constraint, deadline, warnings",
- "pub_date": "2026-10-26T04:35:24Z"
+ "version": "1.4.6",
+ "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.4.6/Fieldbook-1.4.6.apk",
+ "notes": "Fieldbook 1.4.6: Back between windows, one-line header, editor summary box\n\n- Back button for windows opened from inside another window; Android back\n  steps back first\n- One-line header on wide screens (all tabs except Today) with dividers\n- Work package editor shows Start / Finish / Duration / Complete at top right",
+ "pub_date": "2026-10-26T06:29:34Z"
 }
