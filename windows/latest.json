@@ -1,11 +1,11 @@
 {
- "version": "1.4.1",
- "notes": "Fieldbook 1.4.1: Gantt inline editing, full-height column resize, cascade selection, Years header, noon line in Week\n\n- Today (and Load, Notes) use the full window width like the other tabs\n- Master plan: selecting a work package also selects its sub-levels; bulk\n  dates and \"Part of\" apply to the top selected items\n- Column edges can be dragged on any row, not only the header\n- Double-click a Work package name, Deliverable or Resources cell to edit it\n  in place (Enter saves, Esc cancels)\n- Years zoom: year row on top and every month labelled underneath\n- Week: line at 12:00 and light-blue afternoon cells\n- Phone/tablet: opening an editor no longer pops up the keyboard\n- More tab icon is now three lines",
- "pub_date": "2026-10-25T12:05:39Z",
+ "version": "1.4.2",
+ "notes": "Fieldbook 1.4.2: voice typing on phone and tablet\n\n- Mic button in the add bar and in task title/notes and note title/body\n  (Android app only; uses the device's speech recognition)\n- Spoken add-bar shorthand: \"9 a.m.\" -> 09:00, \"hashtag lab\" -> #lab,\n  \"high priority\" -> !high, \"new note ...\" -> note:\n- Listening bar with Done/Cancel and language choice (Device, English, Khmer)\n- Clear messages when the device has no speech service or the mic is not allowed",
+ "pub_date": "2026-10-26T03:08:12Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1VacUkxZUJkbTlEOC9tR3MrZW05MVh3UnpWc2VTTmY0VkdQK1RDWlZ6RVhyN0RJS2Q2Tk9TbnNVS2dRbjdqeW1TYUJPcXlPeld2M0JNMjQydmVRY1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTI5OTI0CWZpbGU6RmllbGRib29rXzEuNC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMQpWTnp1bzRxREVnSGc0VE80MlhiQkpvZE9oZk9WK2JqbTUyUWc3Y0tYSk9UR3dYRGQ2by80SzZzTGd3ZnBqUVhWWlM4VkRyQmQ2TjBZY2dxd2thTlNEdz09Cg==",
-   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.4.1/Fieldbook-Setup-1.4.1.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR2RibHlreG1TckhObzdjZ0ZUV0crTlI1MDNleG1jTTFQUm84ZUpsb0JCMDNEWGdHT1c4M0hueGx3L1FJenlBS096S1g1ZXVOMmFOZmtpQXlPZ2pLQmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTg0MDc3CWZpbGU6RmllbGRib29rXzEuNC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMgpidWZkQVpYZWMrN1ZoKzYrNGNSelZrUkdpTVBTNDZJUXFGc3I1Mkk2eDF0YkdRV1RLTndWVlJYbFg4VFkvQjdScmZNRXVXSzdhd0VxWkdBYkdseVJCUT09Cg==",
+   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.4.2/Fieldbook-Setup-1.4.2.exe"
   }
  }
 }
