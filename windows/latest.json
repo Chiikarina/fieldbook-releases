@@ -1,11 +1,11 @@
 {
- "version": "1.4.4",
- "notes": "Fieldbook 1.4.4: summary work packages, dependency arrows, undo/redo\n\n- Work packages with sub-activities take their dates from them (earliest start\n  to latest finish), like MS Project summary tasks; optional \"set by hand\"\n- Finish-to-start arrows for \"Starts after\" links; drag the dot at a bar's end\n  onto another bar to link; \"Link in order\" for selected items; click an arrow\n  to change the gap or remove the link; linked items are pushed automatically\n- Undo / Redo buttons in the Plan tab and Ctrl+Z / Ctrl+Y for your changes\n- \"Part of\" / \"Starts after\" / work package lists follow the outline order\n- New items get outline codes (WP3, 5.1, 1.2.3)",
- "pub_date": "2026-10-26T04:03:50Z",
+ "version": "1.4.5",
+ "notes": "Fieldbook 1.4.5: MS Project-style work package information\n\n- The work package editor is now a large page with tabs: General,\n  Predecessors, Resources & outputs, Advanced, Notes, Linked tasks\n- General: code (WBS), name, part of, milestone switch, start, finish,\n  duration and working days kept in step, % complete\n- Predecessors: several links per item, each Finish-Start, Start-Start,\n  Finish-Finish or Start-Finish with a lag (minus = overlap); successors list\n- Advanced: constraints (start/finish no earlier/later than, must start/finish\n  on), deadline with a marker on the bar, warnings for broken links and dates\n- Scheduling pushes linked items for every link type and respects constraints;\n  arrows are drawn for each link type\n- Info sheet shows predecessors, successors, constraint, deadline, warnings",
+ "pub_date": "2026-10-26T04:37:45Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1N4YnVWR0xmQmllazNBY0NLK21vN08zcDRJaVhiR3c5UlNML0JCR0xMbmlGZTBOcjdIZXlOUXcxMWJER3Vya0RpRHNBSnd5MXJVWWxUK3VSMzFndVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTg3NDE3CWZpbGU6RmllbGRib29rXzEuNC40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuNApKSTloY0Z2NUtnU3haQ2R4WG43eWlON0I4SHE2TXJZbDdXVmU5aTlMbnF3a0VQMGZSNVdKVlAvZGtuMVh0dDZlNzZ6cDNwOUllZ013QkRaK2g0UnlCdz09Cg==",
-   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.4.4/Fieldbook-Setup-1.4.4.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQzdFL3NhelRkR1JqVlpaWXFKMk05SGlmcTJDOW1rbktOTmFhbmRMREpWUmdzTzRiOVZhYkU5d1FNVm1TT2g2Unk5anNMRStRS1Z2OUY0dDZnV1BpazdXK0RkQ1UxR1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTg5NDUxCWZpbGU6RmllbGRib29rXzEuNC41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuNQpHWjU4V0VreTVEQTMxVFpsZm05cXVJQzlPb01oaERHVFhsckYxYWVFbGZaM1Z5d3VFYUUxYVhpRjEvREc0U2xRV2dYODlxQXRSN2QzeGxSczZzeXNEdz09Cg==",
+   "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.4.5/Fieldbook-Setup-1.4.5.exe"
   }
  }
 }
