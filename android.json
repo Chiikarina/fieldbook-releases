@@ -1,6 +1,6 @@
 {
- "version": "1.4.2",
- "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.4.2/Fieldbook-1.4.2.apk",
- "notes": "Fieldbook 1.4.2: voice typing on phone and tablet\n\n- Mic button in the add bar and in task title/notes and note title/body\n  (Android app only; uses the device's speech recognition)\n- Spoken add-bar shorthand: \"9 a.m.\" -> 09:00, \"hashtag lab\" -> #lab,\n  \"high priority\" -> !high, \"new note ...\" -> note:\n- Listening bar with Done/Cancel and language choice (Device, English, Khmer)\n- Clear messages when the device has no speech service or the mic is not allowed",
- "pub_date": "2026-10-26T03:08:12Z"
+ "version": "1.4.3",
+ "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.4.3/Fieldbook-1.4.3.apk",
+ "notes": "Fieldbook 1.4.3: Month side panel lines up with the calendar\n\nThe month title, navigation and plan strip now sit above both columns, so the\nday/routines/notes panel starts level with the top of the calendar grid.",
+ "pub_date": "2026-10-26T03:18:15Z"
 }
