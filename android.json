@@ -1,6 +1,6 @@
 {
- "version": "1.4.1",
- "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.4.1/Fieldbook-1.4.1.apk",
- "notes": "Fieldbook 1.4.1: Gantt inline editing, full-height column resize, cascade selection, Years header, noon line in Week\n\n- Today (and Load, Notes) use the full window width like the other tabs\n- Master plan: selecting a work package also selects its sub-levels; bulk\n  dates and \"Part of\" apply to the top selected items\n- Column edges can be dragged on any row, not only the header\n- Double-click a Work package name, Deliverable or Resources cell to edit it\n  in place (Enter saves, Esc cancels)\n- Years zoom: year row on top and every month labelled underneath\n- Week: line at 12:00 and light-blue afternoon cells\n- Phone/tablet: opening an editor no longer pops up the keyboard\n- More tab icon is now three lines",
- "pub_date": "2026-10-25T12:02:30Z"
+ "version": "1.4.2",
+ "url": "https://github.com/Chiikarina/fieldbook-releases/releases/download/v1.4.2/Fieldbook-1.4.2.apk",
+ "notes": "Fieldbook 1.4.2: voice typing on phone and tablet\n\n- Mic button in the add bar and in task title/notes and note title/body\n  (Android app only; uses the device's speech recognition)\n- Spoken add-bar shorthand: \"9 a.m.\" -> 09:00, \"hashtag lab\" -> #lab,\n  \"high priority\" -> !high, \"new note ...\" -> note:\n- Listening bar with Done/Cancel and language choice (Device, English, Khmer)\n- Clear messages when the device has no speech service or the mic is not allowed",
+ "pub_date": "2026-10-26T03:08:12Z"
 }
